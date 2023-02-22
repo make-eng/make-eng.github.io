@@ -7,7 +7,7 @@
  * @Description  : config 文件
  */
 module.exports = {
-  base: "/node-web/",
+  base: "/",
   title: "Pancake-Q",
   description: "Pancake-Q 知识沉淀",
   themeConfig: {

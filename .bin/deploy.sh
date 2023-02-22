@@ -13,7 +13,7 @@ git init
 git add -A
 git commit -m "deploy"
 git branch -M main
-git remote add origin git@github.com:Pancake-Q/node-web.git
-git push -f git@github.com:Pancake-Q/node-web.git main
+git remote add origin git@github.com:Pancake-Q/Pancake-Q.github.io.git
+git push -f git@github.com:Pancake-Q/Pancake-Q.github.io.git main:gh-page
 
 cd -
