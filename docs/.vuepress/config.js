@@ -21,5 +21,6 @@ module.exports = {
         ],
       },
     ],
+    sidebar: ["/", "/page-a", ["/page-b", "Explicit link text"]],
   },
 };
