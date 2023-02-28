@@ -4,7 +4,13 @@
  * @LastEditTime : 2022-04-05 22:58:59
  * @LastEditors  : Pancake
  * @FilePath     : \Pancake-Q\docs\guide\README.md
- * @Description  : 
+ * @Description  :
 -->
 
 ## react
+
+### create-app
+
+#### 脚手架
+
+> npm run eject
