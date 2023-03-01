@@ -11,6 +11,15 @@
 
 ### create-app
 
-#### 脚手架
+#### webpack 配置
 
 > npm run eject
+
+proxy
+serve-middleware 配置代理
+pancake.json 配置代理 只能为 string
+alias
+
+##### npm
+
+cross-env bash 修改 node 配置项
