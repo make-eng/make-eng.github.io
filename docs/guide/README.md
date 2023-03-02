@@ -23,3 +23,11 @@ alias
 ##### npm
 
 cross-env bash 修改 node 配置项
+
+#### jsx
+
+{variable}
+
+number string function [] boolean
+
+其他类型均为 error
